@@ -1,1 +1,1 @@
-# airo-neural-networks
+# Neural Networks
